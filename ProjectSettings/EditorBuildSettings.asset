@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Scene/Onboarding.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Scene/Home.unity
+    guid: 07fb63f8961a6f44ea5278ead5d5f28d
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar.unity
+    guid: b6f0614974149b04e9b7838340d88ae9
+  - enabled: 1
+    path: Assets/Scenes/Scene/Bermain.unity
+    guid: 5429d39444395e643ab67990c5bcec5d
+  - enabled: 1
+    path: Assets/Scenes/Scene/Hasil.unity
+    guid: 313de5466c4307d448530ddaffdea5ef
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Alat Musik/AlatMusik1.unity
+    guid: cfd35e5eb545d284f9c0cc78607532b7
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Alat Musik/AlatMusik2.unity
+    guid: a91290134c65a9641a9e9a5af6d7eed9
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Alat Musik/AlatMusik3.unity
+    guid: d3df56e1436482e42b49d215a907c24e
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Alat Musik/AlatMusik4.unity
+    guid: cbf76767d5f61b44c8525701541a65c8
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Alat Musik/AlatMusik5.unity
+    guid: 9a0f42e0e8bcbb04daf39adaa020febb
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Alat Musik/AlatMusik6.unity
+    guid: 26231b4de83cbcd47be6ff21bc48724a
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Alat Musik/AlatMusik7.unity
+    guid: 1d7270801d3f37a4fa3c48de0a50efd2
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Alat Musik/AlatMusik8.unity
+    guid: f0b7144d7c1df84479aacb74d9bdcf9d
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Alat Musik/AlatMusik9.unity
+    guid: 92c94a9fe65e0dc4bb9a3c9e6ae9368b
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Alat Musik/AlatMusik10.unity
+    guid: 9a3f8b32f8bacf94c95516551a9437eb
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Seni Rupa/SeniRupa1.unity
+    guid: 367a5f92567d25746a7b9b66f973e18b
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Seni Rupa/SeniRupa2.unity
+    guid: 039a9148c0aaf53429e90023f7060b94
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Seni Rupa/SeniRupa3.unity
+    guid: 3d9f275fb82bff34cba535e7e330cbaf
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Seni Rupa/SeniRupa4.unity
+    guid: 48cea439abc021f4cb840f8841211c3e
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Seni Rupa/SeniRupa5.unity
+    guid: 9c77c83fa33c0d34db403eaa264586dd
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Seni Rupa/SeniRupa6.unity
+    guid: 43658cef5d25b0d42a47fd4249791868
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Seni Rupa/SeniRupa7.unity
+    guid: d1c4e0e8fe2dc614e8d9e8d6eb9364d4
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Seni Rupa/SeniRupa8.unity
+    guid: bcc7c073334a61f4e9352fbaafa3849d
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Seni Rupa/SeniRupa9.unity
+    guid: 18964f3fd03c24443ab83c1b0ae24d45
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Seni Rupa/SeniRupa10.unity
+    guid: b7ce9fa0fba77c144bfc7306842c0092
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Tarian/Tarian1.unity
+    guid: 82a411df5da5ab742a0919a8e910c910
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Tarian/Tarian2.unity
+    guid: 1801470a7c21f2f43a9e0830b5a5887a
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Tarian/Tarian3.unity
+    guid: bf9f9b2756efeec449241adb8ddd5beb
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Tarian/Tarian4.unity
+    guid: eb882a3a733f01a47b31517cd8b0dcf6
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Tarian/Tarian5.unity
+    guid: 2bc5784bbeaedef4eb2c8a77700785bc
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Tarian/Tarian6.unity
+    guid: dc8754524fa4bd34ea517238c0087fa0
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Tarian/Tarian7.unity
+    guid: 8d334b5ef7fa36048bd3264f3e600068
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Tarian/Tarian8.unity
+    guid: c693a10c6f369794384dad8a8565affb
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Tarian/Tarian9.unity
+    guid: 2fb36abf4dc038e4486396545baafb96
+  - enabled: 1
+    path: Assets/Scenes/Scene/Belajar/Tarian/Tarian10.unity
+    guid: 0ea08864518156346a0ae5b13e479b8f
+  - enabled: 1
+    path: Assets/Scenes/Scene/Bermain/MemoryGame/MemoryGame.unity
+    guid: 4f07d4cfa9cfb6d4ba411ae2b12c313e
+  - enabled: 1
+    path: Assets/Scenes/Scene/Bermain/QuizGame/Quiz1.unity
+    guid: 22a4edd2a3b5dc6429d8cb27f12ca895
+  - enabled: 1
+    path: Assets/Scenes/Scene/Bermain/TebakanGame/Tebak1.unity
+    guid: 2813645e9dcc2d84b8c7d0d5543c7e06
+  - enabled: 1
+    path: Assets/Scenes/Scene/Bermain/TebakanGame/ScoreTebak.unity
+    guid: 218dba31d12b1874381e25e9b5b3ead7
+  - enabled: 1
+    path: Assets/Scenes/Scene/Bermain/QuizGame/ScoreQuiz.unity
+    guid: 5294dc27d77e9a24e8678ade196dc4a3
+  - enabled: 1
+    path: Assets/Scenes/Scene/Bermain/MemoryGame/ScoreMemory.unity
+    guid: 4477703312f8e6a45b59eb334eccdbce
+  m_configObjects: {}
